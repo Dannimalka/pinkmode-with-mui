@@ -1,4 +1,4 @@
-import { Mail, Notifications, Pets } from "@mui/icons-material";
+import { Adb, Mail, Notifications, Pets } from "@mui/icons-material";
 import {
   AppBar,
   Toolbar,
@@ -50,10 +50,12 @@ const Navbar = () => {
     <AppBar position="sticky">
       <StyledToolbar>
         <Typography variant="h6" sx={{ display: { xs: "none", sm: "block" } }}>
+          <Adb/>
           Fakebook
         </Typography>
         <Pets sx={{ display: { xs: "block", sm: "none" } }} />
         <Search>
+        
           <InputBase placeholder="search..." />
         </Search>
         <Icons>
