@@ -39,7 +39,7 @@ const Rightbar = () => {
           <img src="https://images.pexels.com/photos/35188/child-childrens-baby-children-s.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
           </ImageListItem>
           <ImageListItem>
-          <img src="https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
+          <img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2009/11/8/1257676031933/A-man-snorting-cocaine-001.jpg?width=465&quality=85&dpr=1&s=none" alt="" />
           </ImageListItem>
           <ImageListItem>
           <img src="https://images.pexels.com/photos/5055809/pexels-photo-5055809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
@@ -99,7 +99,7 @@ const Rightbar = () => {
               >
                 to Scott, Alex, Jennifer
               </Typography>
-              {" — Wish I could come, but I'm out of town this…"}
+              {" — Wish I could come, but I'm stuck on this React project…"}
             </React.Fragment>
           }
         />
@@ -110,7 +110,7 @@ const Rightbar = () => {
           <Avatar alt="Cindy Baker" src="/static/images/avatar/3.jpg" />
         </ListItemAvatar>
         <ListItemText
-          primary="Oui Oui"
+          primary="I like Lemons"
           secondary={
             <React.Fragment>
               <Typography
@@ -121,7 +121,7 @@ const Rightbar = () => {
               >
                 Sandra Adams
               </Typography>
-              {' — Do you have Paris recommendations? Have you ever…'}
+              {' — People using Redux are crazy'}
             </React.Fragment>
           }
         />

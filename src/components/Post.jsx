@@ -27,13 +27,13 @@ const Post = () => {
             <MoreVert />
           </IconButton>
         }
-        title="The backend dev and the Frontend Dev"
+        title="The backend frontend dev"
         subheader="October 27th 2022"
       />
       <CardMedia
         component="img"
         height="10%"
-        image="https://preview.redd.it/w546ujwux4m01.png?width=640&crop=smart&auto=webp&s=a51282176ad9ae5687781b022498337e19833faf"
+        image="https://i.imgflip.com/2kuh6f.jpg"
         alt="Meme"
       />
       <CardContent>
